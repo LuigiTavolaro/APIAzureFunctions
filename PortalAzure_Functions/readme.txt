@@ -1,0 +1,1 @@
+Os arquivos nessa pasta são arquivos gerados no portal do Azure, tem a extensão csx que é do Azure functions e o arquivo Json tem as configurações de conexão com um banco de dados Cosmos DB
